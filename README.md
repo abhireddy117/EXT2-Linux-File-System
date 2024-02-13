@@ -3,3 +3,5 @@ Utilizing low-level C programming and Linux tools, I successfully created a full
 
 
 This was a term project at Washington State University.
+
+I worked with a teammate for this project.
