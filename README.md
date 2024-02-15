@@ -5,3 +5,19 @@ Utilizing low-level C programming and Linux tools, I successfully created a full
 This was a term project at Washington State University.
 
 I worked with a teammate for this project.
+
+
+ONLY WORKS IN LINUX!
+
+Run the terminal:
+
+Download the zip and unzip it.
+Go into the Final folder.
+Right click in the file explorer and select the option to open in terminal.
+Run ./mk.
+If that doesn't work, run chmod +x mk, then redo previous command.
+Execute a command like you would in a normal Linux terminal!
+Accessing files in the disk:
+
+Run ./show and run any command on the files in the disk.
+Run ./hide to unmount the disk.
