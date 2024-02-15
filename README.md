@@ -11,6 +11,7 @@ Execute a command like you would in a normal Linux terminal!
 Accessing files in the disk:
 
 Run ./show and run any command on the files in the disk.
+
 Run ./hide to unmount the disk. 
 
 
