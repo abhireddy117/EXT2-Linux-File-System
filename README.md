@@ -3,8 +3,11 @@ ONLY WORKS IN LINUX!
 Run the terminal:
 
 1.Download the zip and unzip it.
+
 2.Go into the Final folder.
+
 3.Right click in the file explorer and select the option to open in terminal.
+
 4. Run ./mk.
 
 Accessing files in the disk:
