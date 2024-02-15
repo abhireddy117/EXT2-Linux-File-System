@@ -8,7 +8,7 @@ Run the terminal:
 
 3.Right click in the file explorer and select the option to open in terminal.
 
-4. Run ./mk.
+4.Run ./mk.
 
 Accessing files in the disk:
 
